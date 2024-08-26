@@ -5,7 +5,7 @@
 name = input("What is your name? ")
 
 # Type some message to the name inside the quotation marks
-message = ""
+message = "Nice to meet you!"
 
 # Display message to name
 print(f"Hello, {name}! {message}")
